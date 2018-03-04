@@ -24,4 +24,5 @@ Output when FixAlign is run with no args or just pen.jpg.
 [fgbg]: https://github.com/jhc010/Python-Programs/blob/master/fgbg.py
 [FixAlign]:   https://github.com/jhc010/Python-Programs/blob/master/FixAlign.py
 
+Next post: Edge detection and object recognition
 
