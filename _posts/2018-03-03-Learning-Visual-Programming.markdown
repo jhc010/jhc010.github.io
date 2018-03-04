@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning Visual programming"
-date:   2018-02-20
+date:   2018-03-03
 categories: Python Visual_programming
 ---
 Just posting some snippets from my past assignments for a Visual Programming class
