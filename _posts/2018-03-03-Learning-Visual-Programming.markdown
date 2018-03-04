@@ -9,14 +9,14 @@ that I thought were interesting.
 
 [Foreground and background][fgbg]
 
-![ss1](images/fgbg.png){:class="img-responsive"}
+![ss1](/images/fgbg.png){:class="img-responsive"}
 
 
 [Fixing alignment][FixAlign]
 
-![ss2](images/FixAlign1.png){:class="img-responsive"}
+![ss2](/images/FixAlign1.png){:class="img-responsive"}
 
-![ss3](images/FixAlign2.png){:class="img-responsive"}
+![ss3](/images/FixAlign2.png){:class="img-responsive"}
 
 [fgbg]: https://github.com/jhc010/Python-Programs/blob/master/fgbg.py
 [FixAlign]:   https://github.com/jhc010/Python-Programs/blob/master/FixAlign.py
