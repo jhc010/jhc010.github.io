@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Learning Visual programming"
+title:  "Learning Computer Vision"
 date:   2018-03-03
-categories: Python Visual_programming
+categories: Python Computer_Vision
 ---
 Just posting some snippets from my past assignments for a Visual Programming class
 that I thought were interesting.
