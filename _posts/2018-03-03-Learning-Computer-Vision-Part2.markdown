@@ -4,25 +4,13 @@ title:  "Learning Computer Vision Part2"
 date:   2018-03-04
 categories: Python Computer_Vision
 ---
-Just posting some snippets from my past assignments for a Visual Programming class
+Just posting some snippets from my past assignments for a Computer Vision class
 that I thought were interesting.
 
-[Foreground and background][fgbg]
 
-![ss1](/images/fgbg.png){:class="img-responsive"}
 
-Output when fbgb is run with no args or just coins_pix.jpg.
+[]: https://github.com/jhc010/Python-Programs/blob/master/fgbg.py
+[]:   https://github.com/jhc010/Python-Programs/blob/master/FixAlign.py
 
-[Fixing alignment][FixAlign]
-
-![ss2](/images/FixAlign1.png){:class="img-responsive"}
-
-![ss3](/images/FixAlign2.png){:class="img-responsive"}
-
-Output when FixAlign is run with no args or just pen.jpg.
-
-[fgbg]: https://github.com/jhc010/Python-Programs/blob/master/fgbg.py
-[FixAlign]:   https://github.com/jhc010/Python-Programs/blob/master/FixAlign.py
-
-Next post: Edge detection and object recognition
+Next post:
 
