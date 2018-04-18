@@ -4,7 +4,7 @@ title:  "Learning Computer Vision"
 date:   2018-03-03
 categories: Python Computer_Vision
 ---
-Just posting some snippets from my past assignments for a Visual Programming class
+Just posting some snippets from my past assignments for a Computer Vision class
 that I thought were interesting.
 
 [Foreground and background][fgbg]
@@ -24,5 +24,5 @@ Output when FixAlign is run with no args or just pen.jpg.
 [fgbg]: https://github.com/jhc010/Python-Programs/blob/master/fgbg.py
 [FixAlign]:   https://github.com/jhc010/Python-Programs/blob/master/FixAlign.py
 
-Next post: Edge detection and object recognition
+Next post: Object recognition
 
