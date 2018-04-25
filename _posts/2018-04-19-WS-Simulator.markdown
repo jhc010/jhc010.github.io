@@ -20,4 +20,4 @@ cause errors.
 
 [WS-Sim]: https://github.com/jhc010/WS-Simulator
 
-Next post: Learning about platformers
+Next post: Z80 Spectrum Game for CSE190
