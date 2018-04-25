@@ -15,4 +15,4 @@ a crucial aspect of the project.
 
 [sg]: https://github.com/khcao/8-Bit_Demo
 
-Next post: Learning Platformers
+Next post: Learning how to make Platformers
